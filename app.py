@@ -4,7 +4,6 @@ from flask import Flask, request, jsonify, render_template
 from tensorflow.keras.models import load_model
 import numpy as np
 import tensorflow as tf
-from collections import OrderedDict
 
 # Suppress TensorFlow logs and warnings
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
