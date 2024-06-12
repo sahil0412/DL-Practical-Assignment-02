@@ -20,6 +20,6 @@ pip install -r requirements.txt
 python app.py
 
 ## Deploy the App
-Go to render.com dashboard
+<!-- Go to render.com dashboard
 create web service 
-get SERVICE_ID and RENDER_TOKEN and update in GITHUB SECRETS
+get SERVICE_ID and RENDER_TOKEN and update in GITHUB SECRETS -->
